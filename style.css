@@ -1,0 +1,52 @@
+body {
+  color: #f7786b;
+  background-color: #034f84; 
+  padding: 20px 20px 20px 20px;
+  font-family: 'Slabo 27px', serif;
+}
+
+h1{
+  color: magenta;
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxH0mAzLQhx5p_OZfnn-0mTXpdspvRTS2oqe1CExWa5F4FRwVG&s");
+  background-size:cover;
+  text-align: center;
+  font-size: 3.0em;
+  word-spacing: 2.0em;
+  padding: 20px 20px 20px 20px;
+}
+
+h3{
+   color: orangered;
+  background-color:purple;
+  background-size:contain;
+  text-align: center;
+  font-size: 1.2em;
+  word-spacing: 0.3em;
+}
+
+div{
+padding: 20px 20px 20px 20px;
+word-spacing: 0.3em;
+line-spacing: 0.3em
+}
+
+h4{
+  color: #6b5b95;
+  background-color: #a2b9bc;
+  background-size:contain;
+  text-align: center;
+  font-size: 1.2em;
+  word-spacing: 0.3em;
+}
+
+.name{
+  color: #d64161
+}
+
+footer{
+  color: #80ced6;
+  background-color: #618685;
+  background-size:contain;
+  font-size: .9em;
+  padding: 10px 10px 10px 10px;
+}
